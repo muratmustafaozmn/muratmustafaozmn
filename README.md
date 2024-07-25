@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muratmustafaozmn
 - 👀 I’m interested in C#, C++ and Python
-- 🌱 I’m currently learning Computer Programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Programming and on my 2nd Semester
 - 📫 How to reach me muratozmenbb@gmail.com
 - ⚡ Fun fact: I like turtles
 
